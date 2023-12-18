@@ -50,3 +50,10 @@ i {
     margin-right: 0.5rem;    /* SNS 아이콘 오른쪽 여백 */
 }
 
+.stack-list {
+    display: flex;
+}
+
+.contact-link{
+    display: flex;    
+}
